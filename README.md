@@ -44,13 +44,14 @@ Copy code
 ```npm run build```
 This command will generate an optimized build in the dist folder.
 
-#### Available Scripts
-In the project directory, you can run:
+## Available Scripts
 
-```npm run dev```: Starts the development server with Hot Module Replacement (HMR).
-```npm run build```: Builds the app for production.
-```npm run preview```: Serves the production build locally for testing.
-```npm run lint```: Runs ESLint to analyze and fix code issues based on specified rules.
+In the project directory, you can run the following commands:
+
+- **`npm run dev`**: Starts the development server with Hot Module Replacement (HMR).
+- **`npm run build`**: Builds the app for production.
+- **`npm run preview`**: Serves the production build locally for testing.
+- **`npm run lint`**: Runs ESLint to analyze and fix code issues based on specified rules.
 
 ### Folder Structure
 Here's an overview of the project structure:
