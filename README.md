@@ -62,8 +62,7 @@ npm run lint: Runs ESLint to analyze and fix code issues based on specified rule
 ### Folder Structure
 Here's an overview of the project structure:
 
-plaintext
-Copy code
+```plaintext
 clinic-health-care-tool/
 ├── public/              # Static assets
 ├── src/
