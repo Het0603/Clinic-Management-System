@@ -26,38 +26,31 @@ Make sure you have the following installed:
 ### Installation
 Follow these steps to set up the project locally.
 
-#### Prerequisites
-Node.js (version 14+ recommended)
-Git for cloning the repository
-
 #### Step 1: Clone the Repository
-```bash```
-git clone https://github.com/your-username/clinic-health-care-tool.git
-cd clinic-health-care-tool
+Git for cloning the repository
+```git clone https://github.com/your-username/clinic-health-care-tool.git```
+```cd clinic-health-care-tool```
 
 #### Step 2: Install dependencies:
-```bash```
-npm install
+```npm install```
 
 #### Step 3: Start the development server:
-```bash```
 Copy code
-npm run dev
+```npm run dev```
 The application will be available at http://localhost:3000 (or another port specified by Vite).
 
 #### Step 4: To build the app for production:
-```bash```
 Copy code
-npm run build
+```npm run build```
 This command will generate an optimized build in the dist folder.
 
 #### Available Scripts
 In the project directory, you can run:
 
-npm run dev: Starts the development server with Hot Module Replacement (HMR).
-npm run build: Builds the app for production.
-npm run preview: Serves the production build locally for testing.
-npm run lint: Runs ESLint to analyze and fix code issues based on specified rules.
+```npm run dev```: Starts the development server with Hot Module Replacement (HMR).
+```npm run build```: Builds the app for production.
+```npm run preview```: Serves the production build locally for testing.
+```npm run lint```: Runs ESLint to analyze and fix code issues based on specified rules.
 
 ### Folder Structure
 Here's an overview of the project structure:
@@ -76,6 +69,7 @@ clinic-health-care-tool/
 ├── .eslintrc.js         # ESLint configuration
 ├── vite.config.js       # Vite configuration
 └── package.json         # Project dependencies and scripts
+```
 
 ### Contributing
 If you’d like to contribute to this project:
