@@ -28,20 +28,18 @@ Follow these steps to set up the project locally.
 
 #### Step 1: Clone the Repository
 Git for cloning the repository
-```git clone https://github.com/your-username/clinic-health-care-tool.git```
-```cd clinic-health-care-tool```
+- ```git clone https://github.com/your-username/clinic-health-care-tool.git```
+- ```cd clinic-health-care-tool```
 
 #### Step 2: Install dependencies:
-```npm install```
+- ```npm install```
 
 #### Step 3: Start the development server:
-Copy code
-```npm run dev```
+- ```npm run dev```
 The application will be available at http://localhost:3000 (or another port specified by Vite).
 
 #### Step 4: To build the app for production:
-Copy code
-```npm run build```
+- ```npm run build```
 This command will generate an optimized build in the dist folder.
 
 ## Available Scripts
@@ -79,7 +77,5 @@ If you’d like to contribute to this project:
 Create a new branch with a descriptive name (feature/add-patient-form).
 Make your changes.
 Submit a pull request with a description of the changes.
-License
-This project is licensed under the MIT License.
 
 This README gives an overview, installation steps, available scripts, and an outline of your project structure, making it clear for others to understand and use your clinic health care tool. Let me know if you’d like more specific details on any sections!
